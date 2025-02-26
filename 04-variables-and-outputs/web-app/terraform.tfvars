@@ -1,0 +1,5 @@
+bucket_prefix = "terraformtraining1"
+domain        = "trainingatcentillion.com"
+db_name       = "mydb"
+db_user       = "foo"
+# db_pass = "foobarbaz"
